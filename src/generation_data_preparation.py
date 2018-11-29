@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# Simone Fisicaro (2641824)
+
 # import libraries
 import pandas as pd
 

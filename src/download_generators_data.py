@@ -1,3 +1,5 @@
+# Georgios Koliopoulos (2646502)
+
 import pandas as pd
 
 tables = pd.read_html("https://www.ref.org.uk/generators/index.php?start=0&order=AvAnnMWh&dir=desc")
